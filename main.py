@@ -71,8 +71,6 @@ def ex1 ():
 
     print("Text: ")
     print(t.read())
-
-    #t.flush()
     
     a=[]
 
